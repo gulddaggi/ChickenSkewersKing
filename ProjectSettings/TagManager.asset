@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Event_Plate
+  - Ingredient
+  - Skewer_uncooked
+  - Skewer_cooking
+  - Skewer_done
+  - Skewer_BurnOut
   layers:
   - Default
   - TransparentFX
